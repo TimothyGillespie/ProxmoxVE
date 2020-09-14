@@ -1,5 +1,5 @@
 {
-    "name": "zzantares/proxmoxve",
+    "name": "timothygillespie/proxmoxve",
     "type": "library",
     "description": "A simple PHP 5.5+ Proxmox API client.",
     "keywords": ["Proxmox", "API", "KVM", "OpenVZ", "Virtualization"],
